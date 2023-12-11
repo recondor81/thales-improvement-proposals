@@ -1,0 +1,16 @@
+
+| id | Title | Status | Author | Description | Discussions to | Created |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| TIP-192 |Launch Speed Markets on Solana mainnet | Draft | alex81sg |Launch Thales Speed Markets on Solana mainnet |  | 2023-12-11
+ 
+## Simple Summary
+Launch Speed Markets on Solana. The main collateral to be used should be USDC. Other products should be deployed later if speed markets prove to be successful.  
+
+## Motivation
+Base chain will have many users due to airdrop speculation, as well as just being new overall. 
+
+## Specification
+This TIP entails that Thales can deploy all its contracts and products on Solana. 
+## Copyright
+ 
+Copyright and related rights waived via CC0.
